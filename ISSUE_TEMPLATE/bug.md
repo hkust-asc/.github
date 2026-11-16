@@ -1,16 +1,18 @@
 ---
 name: Bug
-about: Report a problem in a program or quest
-title: "[Bug] "
+about: Report a problem with a file or exercise
+title: "[Bug] filename: short description"
 labels: []
 ---
 
-## File
+## Location
 
-(Filename or path)
+Which file and, if relevant, which line is affected?
 
-## Problem
+## What goes wrong?
 
-What happened, and how can it be reproduced?
+Describe the behavior, how to reproduce it, and what you expected.
 
-## Suggested fix (if any)
+## Possible fix
+
+If you have an idea, explain it here.

@@ -1,13 +1,11 @@
-## Type
+## Submission
 
-- [ ] This week’s assignment (title: `[Submit] Your Name (@github-id)`)
-- [ ] Other
+For an assignment, use the title `[Submit] Your Name (@github-id)`.
 
-## Description
-
-Briefly say what you changed and how you checked it.
+Describe your changes and how you checked them.
 
 ## Checklist
 
-- [ ] I only changed files under `submissions/<your-github-id>/` (unless the quest asked me to edit a shared file)
-- [ ] I did not commit build artifacts, logs, large datasets, or model weights
+- [ ] My changes are confined to `submissions/<github-id>/`, unless the quest requires a shared-file edit.
+- [ ] I have not changed another person's submission or an original in `quests/`, unless the quest requires it.
+- [ ] I have not committed generated artifacts, logs, large datasets, or model weights.

@@ -1,7 +1,7 @@
-# ASC Team @ HKUST
+# ASC Team
 
-HKUST’s first student supercomputing team (this is the name we use externally for now). We run weekly workshops on high-performance computing and related systems and AI topics, and we are preparing for the [ASC](https://www.asc-events.org/) Student Supercomputer Challenge.
+We are HKUST's first student supercomputing team, learning high-performance computing together.
 
-Training: Wednesdays, 18:30–20:00 (HKT).
+**Training:** Wednesdays, 18:30–20:00 (HKT)
 
-Contact: hkustascteam@gmail.com
+**Contact:** hkustascteam@gmail.com
