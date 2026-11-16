@@ -5,3 +5,7 @@ We are HKUST's first student supercomputing team, learning high-performance comp
 **Training:** Wednesdays, 18:30–20:00 (HKT)
 
 **Contact:** hkustascteam@gmail.com
+
+## Map of HPC
+
+![Map of HPC](map-of-hpc.jpg)
